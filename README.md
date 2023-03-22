@@ -1,3 +1,5 @@
+test
+
 ![sttp](https://github.com/softwaremill/sttp/raw/master/banner.png)
 
 [![Ideas, suggestions, problems, questions](https://img.shields.io/badge/Discourse-ask%20question-blue)](https://softwaremill.community/c/sttp-client)
